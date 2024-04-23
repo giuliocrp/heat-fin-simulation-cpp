@@ -2,6 +2,15 @@
 
 == Overview
 
+The aim of this project is to develop a C++ program to study the thermal
+behavior of a microprocessor cooling device. One common method for regulating
+the temperature of a processor is by using a fan. The airflow helps to
+dissipate heat through convection on the processor's surface. To enhance this
+process, the processor is typically attached to a heatsink
+(composed of several fins), which is a highly heat-conductive element.
+This additional device, increases the exchange surface with the airflow,
+thus effectively cooling the electronic component.
+
 == Installation
 
 1. Clone the repository:
