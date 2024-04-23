@@ -3,6 +3,10 @@
 // Constructor definition
 Mesh::Mesh(const Config &config) : config(config)
 {
+    std::string output_folder = "../results/";
+    if (!std::filesystem::exists(output_folder)) {
+        std::filesystem::create_directory(output_folder);
+    }
     generateMesh("../results/mesh.vtk");
 }
 

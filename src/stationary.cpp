@@ -1,4 +1,6 @@
 #include <cmath>
+#include <iostream>
+#include <string>
 
 #include "stationary.hpp"
 
@@ -10,6 +12,10 @@ Stationary::Stationary(const Config &config) : config(config), M_A(config.getM()
     BuildTexact();
 
     solve1DStationaryModel();
+    std::string output_folder = "../results/";
+    if (!std::filesystem::exists(output_folder)) {
+        std::filesystem::create_directory(output_folder);
+    }
     visualize1DSolution("../results/stationary1D.csv");
 }
 

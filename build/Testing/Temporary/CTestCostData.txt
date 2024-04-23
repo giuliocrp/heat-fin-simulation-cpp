@@ -1,5 +1,0 @@
-test_solver 1 0.336383
-test_stationary 1 0.342482
-test_tridiag 1 0.156063
-test_vector 1 0.159432
----
