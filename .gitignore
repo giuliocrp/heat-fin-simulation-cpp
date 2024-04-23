@@ -1,11 +1,19 @@
+# LaTeX compilation files
+*.bbl
+*.nav
+*.pdf
+*.snm
+*.gz
+*.aux
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
 
-projet.pdf
-/rapport/logo_ufc.png
-/rapport/main.aux
-/rapport/main.fdb_latexmk
-/rapport/main.fls
-/rapport/main.log
-/rapport/main.out
-/rapport/main.pdf
-/rapport/main.synctex.gz
-/rapport/main.toc
+# Project files
+build/
+
+# macOS
+.DS_Store
