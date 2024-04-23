@@ -1,6 +1,6 @@
 CMakeFiles/projet.dir/src/config.cpp.o: \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/src/config.cpp \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/config.hpp \
+  /Users/giulio/GitHub/HeatFinC++/src/config.cpp \
+  /Users/giulio/GitHub/HeatFinC++/include/config.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__config \

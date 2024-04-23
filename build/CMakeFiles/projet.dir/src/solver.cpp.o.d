@@ -1,6 +1,6 @@
 CMakeFiles/projet.dir/src/solver.cpp.o: \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/src/solver.cpp \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/solver.hpp \
+  /Users/giulio/GitHub/HeatFinC++/src/solver.cpp \
+  /Users/giulio/GitHub/HeatFinC++/include/solver.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__config \
@@ -823,5 +823,5 @@ CMakeFiles/projet.dir/src/solver.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__locale_dir/locale_base_api/bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/cstdarg \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/tridiag.hpp \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/vector.hpp
+  /Users/giulio/GitHub/HeatFinC++/include/tridiag.hpp \
+  /Users/giulio/GitHub/HeatFinC++/include/vector.hpp

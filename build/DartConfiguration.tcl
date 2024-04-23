@@ -4,14 +4,14 @@
 
 
 # Configuration directories and files
-SourceDirectory: /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++
-BuildDirectory: /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/build
+SourceDirectory: /Users/giulio/GitHub/HeatFinC++
+BuildDirectory: /Users/giulio/GitHub/HeatFinC++/build
 
 # Where to place the cost data store
 CostDataFile: 
 
 # Site is something like machine.domain, i.e. pragmatic.crd
-Site: wifi-eduroam-interne-172-29-73-74.wifi.unistra.fr
+Site: wifi-eduroam-interne-172-29-101-227.wifi.unistra.fr
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
 BuildName: Darwin-c++
@@ -26,7 +26,7 @@ SubmitURL: http://
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/Applications/CMake.app/Contents/bin/cmake" "/Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++"
+ConfigureCommand: "/Applications/CMake.app/Contents/bin/cmake" "/Users/giulio/GitHub/HeatFinC++"
 MakeCommand: /Applications/CMake.app/Contents/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 
@@ -44,7 +44,7 @@ SVNOptions:
 SVNUpdateOptions: 
 
 # Git options
-GITCommand: 
+GITCommand: /usr/bin/git
 GITInitSubmodules: 
 GITUpdateOptions: 
 GITUpdateCustom: 
@@ -57,9 +57,9 @@ P4UpdateOptions:
 P4UpdateCustom: 
 
 # Generic update command
-UpdateCommand: 
+UpdateCommand: /usr/bin/git
 UpdateOptions: 
-UpdateType: 
+UpdateType: git
 
 # Compiler info
 Compiler: /Library/Developer/CommandLineTools/usr/bin/c++

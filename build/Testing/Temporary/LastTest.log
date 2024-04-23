@@ -1,10 +1,10 @@
-Start testing: Apr 09 13:39 CEST
+Start testing: Apr 23 14:52 CEST
 ----------------------------------------------------------
 1/4 Testing: test_solver
 1/4 Test: test_solver
-Command: "/Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/build/test_solver"
-Directory: /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/build
-"test_solver" start time: Apr 09 13:39 CEST
+Command: "/Users/giulio/GitHub/HeatFinC++/build/test_solver"
+Directory: /Users/giulio/GitHub/HeatFinC++/build
+"test_solver" start time: Apr 23 14:52 CEST
 Output:
 ----------------------------------------------------------
 
@@ -36,18 +36,18 @@ Y[0]: 10
 Y[1]: -38
 Y[2]: -5.63636
 <end of output>
-Test time =   0.32 sec
+Test time =   0.34 sec
 ----------------------------------------------------------
 Test Passed.
-"test_solver" end time: Apr 09 13:39 CEST
+"test_solver" end time: Apr 23 14:52 CEST
 "test_solver" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 2/4 Testing: test_stationary
 2/4 Test: test_stationary
-Command: "/Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/build/test_stationary"
-Directory: /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/build
-"test_stationary" start time: Apr 09 13:39 CEST
+Command: "/Users/giulio/GitHub/HeatFinC++/build/test_stationary"
+Directory: /Users/giulio/GitHub/HeatFinC++/build
+"test_stationary" start time: Apr 23 14:52 CEST
 Output:
 ----------------------------------------------------------
 BuildMatrix Test:
@@ -50062,18 +50062,18 @@ X[9998]: 708.809
 X[9999]: 708.861
 X[10000]: 708.914
 <end of output>
-Test time =   0.33 sec
+Test time =   0.34 sec
 ----------------------------------------------------------
 Test Passed.
-"test_stationary" end time: Apr 09 13:39 CEST
+"test_stationary" end time: Apr 23 14:52 CEST
 "test_stationary" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 3/4 Testing: test_tridiag
 3/4 Test: test_tridiag
-Command: "/Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/build/test_tridiag"
-Directory: /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/build
-"test_tridiag" start time: Apr 09 13:39 CEST
+Command: "/Users/giulio/GitHub/HeatFinC++/build/test_tridiag"
+Directory: /Users/giulio/GitHub/HeatFinC++/build
+"test_tridiag" start time: Apr 23 14:52 CEST
 Output:
 ----------------------------------------------------------
 Default Constructor Test:
@@ -50104,18 +50104,18 @@ Diag[1] after setting: 10
 Lower[0] after setting: 20
 Upper[2] after setting: 30
 <end of output>
-Test time =   0.15 sec
+Test time =   0.16 sec
 ----------------------------------------------------------
 Test Passed.
-"test_tridiag" end time: Apr 09 13:39 CEST
+"test_tridiag" end time: Apr 23 14:52 CEST
 "test_tridiag" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 4/4 Testing: test_vector
 4/4 Test: test_vector
-Command: "/Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/build/test_vector"
-Directory: /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/build
-"test_vector" start time: Apr 09 13:39 CEST
+Command: "/Users/giulio/GitHub/HeatFinC++/build/test_vector"
+Directory: /Users/giulio/GitHub/HeatFinC++/build
+"test_vector" start time: Apr 23 14:52 CEST
 Output:
 ----------------------------------------------------------
 Default Constructor Test:
@@ -50141,11 +50141,11 @@ Value[0]: 20
 Value[1]: 10
 Value[2]: 30
 <end of output>
-Test time =   0.15 sec
+Test time =   0.16 sec
 ----------------------------------------------------------
 Test Passed.
-"test_vector" end time: Apr 09 13:39 CEST
+"test_vector" end time: Apr 23 14:52 CEST
 "test_vector" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Apr 09 13:39 CEST
+End testing: Apr 23 14:52 CEST

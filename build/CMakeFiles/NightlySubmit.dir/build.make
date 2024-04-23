@@ -53,10 +53,10 @@ RM = /Applications/CMake.app/Contents/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++
+CMAKE_SOURCE_DIR = /Users/giulio/GitHub/HeatFinC++
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/build
+CMAKE_BINARY_DIR = /Users/giulio/GitHub/HeatFinC++/build
 
 # Utility rule file for NightlySubmit.
 
@@ -82,6 +82,6 @@ CMakeFiles/NightlySubmit.dir/clean:
 .PHONY : CMakeFiles/NightlySubmit.dir/clean
 
 CMakeFiles/NightlySubmit.dir/depend:
-	cd /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++ /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++ /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/build /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/build /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/build/CMakeFiles/NightlySubmit.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/giulio/GitHub/HeatFinC++/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/giulio/GitHub/HeatFinC++ /Users/giulio/GitHub/HeatFinC++ /Users/giulio/GitHub/HeatFinC++/build /Users/giulio/GitHub/HeatFinC++/build /Users/giulio/GitHub/HeatFinC++/build/CMakeFiles/NightlySubmit.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/NightlySubmit.dir/depend
 

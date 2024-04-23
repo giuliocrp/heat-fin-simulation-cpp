@@ -1,6 +1,6 @@
 CMakeFiles/test_stationary.dir/test/test_stationary.cpp.o: \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/test/test_stationary.cpp \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/stationary.hpp \
+  /Users/giulio/GitHub/HeatFinC++/test/test_stationary.cpp \
+  /Users/giulio/GitHub/HeatFinC++/include/stationary.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__config \
@@ -823,7 +823,7 @@ CMakeFiles/test_stationary.dir/test/test_stationary.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__locale_dir/locale_base_api/bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/cstdarg \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/config.hpp \
+  /Users/giulio/GitHub/HeatFinC++/include/config.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/filesystem \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__filesystem/copy_options.h \
@@ -845,6 +845,6 @@ CMakeFiles/test_stationary.dir/test/test_stationary.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__filesystem/recursive_directory_iterator.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__filesystem/u8path.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/sstream \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/tridiag.hpp \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/vector.hpp \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/solver.hpp
+  /Users/giulio/GitHub/HeatFinC++/include/tridiag.hpp \
+  /Users/giulio/GitHub/HeatFinC++/include/vector.hpp \
+  /Users/giulio/GitHub/HeatFinC++/include/solver.hpp

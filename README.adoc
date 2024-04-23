@@ -1,0 +1,44 @@
+= Project: Numerical Simulation of a Cooling Device
+
+== Overview
+
+== Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/GiulioCrp/HeatFin.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd HeatFin
+```
+
+== Build the project
+
+Configure and build the project using CMake:
+```bash
+mkdir build
+cd build
+
+# Build the project
+cmake ..
+
+# Compile the project
+make
+
+# Run the tests
+make test
+```
+
+== Usage
+```bash
+cd build
+./run
+```
+
+== Contributors
+
+* https://github.com/GiulioCrp[GiulioCrp]

@@ -1,6 +1,6 @@
 CMakeFiles/test_tridiag.dir/test/test_tridiag.cpp.o: \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/test/test_tridiag.cpp \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/tridiag.hpp \
+  /Users/giulio/GitHub/HeatFinC++/test/test_tridiag.cpp \
+  /Users/giulio/GitHub/HeatFinC++/include/tridiag.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__config \

@@ -1,6 +1,6 @@
 CMakeFiles/projet.dir/src/mesh.cpp.o: \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/src/mesh.cpp \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/mesh.hpp \
+  /Users/giulio/GitHub/HeatFinC++/src/mesh.cpp \
+  /Users/giulio/GitHub/HeatFinC++/include/mesh.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__config \
@@ -843,5 +843,5 @@ CMakeFiles/projet.dir/src/mesh.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__filesystem/path_iterator.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__filesystem/recursive_directory_iterator.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__filesystem/u8path.h \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/config.hpp \
+  /Users/giulio/GitHub/HeatFinC++/include/config.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/sstream

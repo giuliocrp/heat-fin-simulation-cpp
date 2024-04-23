@@ -4,7 +4,7 @@
 # compile CXX with /Library/Developer/CommandLineTools/usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include
+CXX_INCLUDES = -I/Users/giulio/GitHub/HeatFinC++/include
 
 CXX_FLAGS = -std=c++17 -O3 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
 

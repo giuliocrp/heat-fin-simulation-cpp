@@ -1,5 +1,5 @@
 CMakeFiles/projet.dir/src/instationary.cpp.o: \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/src/instationary.cpp \
+  /Users/giulio/GitHub/HeatFinC++/src/instationary.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/cmath \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__config \
@@ -214,7 +214,7 @@ CMakeFiles/projet.dir/src/instationary.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/malloc/_ptrcheck.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_dev_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_mode_t.h \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/instationary.hpp \
+  /Users/giulio/GitHub/HeatFinC++/include/instationary.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/ios \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__fwd/ios.h \
@@ -823,7 +823,7 @@ CMakeFiles/projet.dir/src/instationary.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__locale_dir/locale_base_api/bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/cstdarg \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/config.hpp \
+  /Users/giulio/GitHub/HeatFinC++/include/config.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/filesystem \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__filesystem/copy_options.h \
@@ -845,6 +845,6 @@ CMakeFiles/projet.dir/src/instationary.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__filesystem/recursive_directory_iterator.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__filesystem/u8path.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/sstream \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/tridiag.hpp \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/vector.hpp \
-  /Users/giulio/Desktop/CSMI/M1/S1/05-C++/HeatFinC++/include/solver.hpp
+  /Users/giulio/GitHub/HeatFinC++/include/tridiag.hpp \
+  /Users/giulio/GitHub/HeatFinC++/include/vector.hpp \
+  /Users/giulio/GitHub/HeatFinC++/include/solver.hpp
