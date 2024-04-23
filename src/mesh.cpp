@@ -1,4 +1,7 @@
 #include "mesh.hpp"
+#include <iostream>
+#include <string>
+#include <filesystem>
 
 // Constructor definition
 Mesh::Mesh(const Config &config) : config(config)
