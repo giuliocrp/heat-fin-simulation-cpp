@@ -53,4 +53,4 @@ created if needed.
 
 == Contributors
 
-* https://github.com/GiulioCrp[GiulioCrp]
+* https://github.com/giuliocrp[giuliocrp]
