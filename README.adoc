@@ -50,7 +50,3 @@ cd build
 
 The results will be saved in the `/results` directory which is automatically 
 created if needed.
-
-== Contributors
-
-* https://github.com/giuliocrp[giuliocrp]
